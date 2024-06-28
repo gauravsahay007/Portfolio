@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Leetcode",
+        "url":"https://leetcode.com/u/Vecna_7/",
+      "imageSrc": "company/lc.png"
+    },
+    {
+        "id": 2,
+      "name": "Codeforces",
+        "url":"https://codeforces.com/profile/byte_gaurav",
+      "imageSrc": "company/cf.png"
+    },
+    {
+      "id": 3,
+      "name": "GFG",
+        "url":"https://www.geeksforgeeks.org/user/gauravsahay2468/",
+      "imageSrc": "company/gfg.png"
+    },
+    {
+        "id": 4,
+        "name": "Interviewbit",
+          "url":"https://www.interviewbit.com/profile/gaurav-sahay/",
+        "imageSrc": "company/interviewbit.png"
+      }
+  ]

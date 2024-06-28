@@ -1,0 +1,26 @@
+[
+    {
+      "key": 1,
+      "title": "React E-Commerce",
+      "imageSrc": "projects/ecom.png",
+      "description": "This is a project made with complete React js.",
+      "demo": "https://merchfire.onrender.com/",
+      "source": "https://github.com/gauravsahay007/SellMerchSite"
+    },
+    {
+      "key": 2,
+      "title": "Simple.CHAT",
+      "imageSrc": "projects/simplechat.png",
+      "description": "MERN stack based CHAT aaplication",
+      "demo": "https://chatsimple-ser0.onrender.com/",
+      "source": "https://github.com/gauravsahay007/Simple.CHAT-Server-"
+    },
+    {
+      "key": 3,
+      "title": "Portfolio",
+      "imageSrc": "projects/port.png",
+      "description": "This is a project made with complete React js.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/gauravsahay007/Portfolio"
+    }
+  ]
