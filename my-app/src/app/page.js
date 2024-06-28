@@ -23,10 +23,14 @@ export default function Page() {
     Aos.init();
   }, []);
 
+  setTimeout(()=>{
+    Aos.refresh()
+  },500)
+
   return (
     <>
-    <div className={roboto.className}>
     <Particle/>
+    <div className={roboto.className}>
       <Navbar />
       <div className="container">
         <Home />

@@ -1,8 +1,8 @@
 import React, { useEffect, useRef } from "react";
 import Typed from "typed.js"; // Correct import for typed.js
 import hero from "./data/hero.json";
-
-
+import Particle from "./Particle";
+import Aos from "aos";
 const Home = () => {
   const typedRef = useRef(null);
 
@@ -32,11 +32,11 @@ const Home = () => {
   }, []);
 
   useEffect(() => {
-    if (typeof AOS !== "undefined") {
-      AOS.init();
+    if (typeof Aos !== "undefined") {
+      Aos.init();
     }
   }, []);
-
+  
   return (
     <>
       <div className="container home" id="home">
