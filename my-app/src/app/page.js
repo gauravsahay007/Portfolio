@@ -15,7 +15,7 @@ const roboto = Roboto({
   subsets: ['latin'],
 });
 
-// Renamed function to start with uppercase letter
+
 export default function Page() {
   useEffect(() => {
     Aos.init();

@@ -7,7 +7,7 @@ const CodingProfile = () => {
   };
 
   return (
-    <div className="container skills" id="skills">
+    <div className="container skills" id="profiles">
       <h1 className="text-center mb-5 mt-5">CODING PROFILES</h1>
       <div className="items">
         {profile.map((data) => (
