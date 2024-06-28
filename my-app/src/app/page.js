@@ -25,8 +25,8 @@ export default function Page() {
 
   return (
     <>
-    <Particle/>
     <div className={roboto.className}>
+    <Particle/>
       <Navbar />
       <div className="container">
         <Home />
