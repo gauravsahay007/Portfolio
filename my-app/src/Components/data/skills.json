@@ -34,5 +34,17 @@
     {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
+    },
+    {
+      "title":"C++",
+      "imageSrc":"skills/c++.png"
+    },
+    {
+      "title":"Python",
+      "imageSrc":"skills/python.jfif"
+    },
+    {
+      "title":"Git",
+      "imageSrc":"skills/git.png"
     }
   ]
