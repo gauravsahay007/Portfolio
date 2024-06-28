@@ -12,14 +12,14 @@ const Navbar = () => {
           <a href="#home" className="nav_items">
             Home
           </a>
-          <a href="#profiles" className="nav_items">
-            Coding Profiles
-          </a>
           <a href="#skills" className="nav_items">
             Skills
           </a>
           <a href="#projects" className="nav_items">
             Projects
+          </a>
+          <a href="#profiles" className="nav_items">
+            Coding Profiles
           </a>
           <a href="#contact" className="nav_items">
             Contact
