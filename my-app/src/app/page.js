@@ -1,11 +1,13 @@
 'use client';
-import React, { useEffect } from 'react';
+import React, { useEffect,useCallback } from 'react';
+
 import Navbar from '@/Components/Navbar';
 import Home from '@/Components/Home';
 import Skills from '@/Components/Skills';
 import Projects from '@/Components/Projects';
 import Contact from '@/Components/Contact';
 import CodingProfile from '@/Components/CodingProfile';
+import Particle from '@/Components/Particle';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 import { Roboto } from 'next/font/google';
@@ -22,6 +24,8 @@ export default function Page() {
   }, []);
 
   return (
+    <>
+    <Particle/>
     <div className={roboto.className}>
       <Navbar />
       <div className="container">
@@ -32,5 +36,6 @@ export default function Page() {
         <Contact />
       </div>
     </div>
+    </>
   );
 }
