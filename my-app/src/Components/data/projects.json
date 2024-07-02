@@ -11,7 +11,7 @@
       "key": 2,
       "title": "Simple.CHAT",
       "imageSrc": "projects/simplechat.png",
-      "description": "MERN stack based CHAT aaplication",
+      "description": "MERN stack based CHAT aaplication using SOCKET.io used MongoDB as database, axios to fetch API requests",
       "demo": "https://chatsimple-ser0.onrender.com/",
       "source": "https://github.com/gauravsahay007/Simple.CHAT-Server-"
     },
@@ -19,8 +19,17 @@
       "key": 3,
       "title": "Portfolio",
       "imageSrc": "projects/port.png",
-      "description": "This is a project made with complete React js.",
+      "description": "This is a project made with complete React js added animation to background using particle.js",
       "demo": "https://www.example.com",
       "source": "https://github.com/gauravsahay007/Portfolio"
+    },{
+      {
+        "key": 4,
+        "title": "Cloudit",
+        "imageSrc": "projects/cloudit.png",
+        "description": "A cloud storage platform with responsive UI made with Nextjs 13.4 used Firebase firestore as a database",
+        "demo": "https://www.example.com",
+        "source": "https://github.com/gauravsahay007/Portfolio"
+      }
     }
   ]
