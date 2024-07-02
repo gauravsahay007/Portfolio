@@ -3,7 +3,7 @@
       "key": 1,
       "title": "React E-Commerce",
       "imageSrc": "projects/ecom.png",
-      "description": "This is a project made with complete React js.",
+      "description": "This is a project made with complete React js, used MongoDb as the database and pure css for styling components, also used REST APIs",
       "demo": "https://merchfire.onrender.com/",
       "source": "https://github.com/gauravsahay007/SellMerchSite"
     },
@@ -28,8 +28,8 @@
         "title": "Cloudit",
         "imageSrc": "projects/cloudit.png",
         "description": "A cloud storage platform with responsive UI made with Nextjs 13.4 used Firebase firestore as a database",
-        "demo": "https://www.example.com",
-        "source": "https://github.com/gauravsahay007/Portfolio"
+        "demo": "https://cloudit.vercel.app/",
+        "source": "https://github.com/gauravsahay007/File_Manager"
       
     }
   ]
