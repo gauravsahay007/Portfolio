@@ -59,6 +59,7 @@ const Home = () => {
           <a
             href={"https://drive.google.com/file/d/1nyC37dfZMdUa_iO4P4FpvX1HfeT_Hjb6/view"}
             className="btn btn-outline-warning my-3"
+            target="_blank"
           >
             View Resume
           </a>
