@@ -57,11 +57,10 @@ const Home = () => {
          
 
           <a
-            href={"https://drive.usercontent.google.com/u/0/uc?id=1RZKSsscnegsffXF1Awy0wnoMzJdPnk_Z&export=download"}
-            download="Resume.pdf"
+            href={"https://drive.google.com/file/d/1nyC37dfZMdUa_iO4P4FpvX1HfeT_Hjb6/view"}
             className="btn btn-outline-warning my-3"
           >
-            Download Resume
+            View Resume
           </a>
         </div>
         <div className="right">
