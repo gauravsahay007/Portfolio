@@ -23,13 +23,13 @@
       "demo": "https://www.example.com",
       "source": "https://github.com/gauravsahay007/Portfolio"
     },{
-      {
+      
         "key": 4,
         "title": "Cloudit",
         "imageSrc": "projects/cloudit.png",
         "description": "A cloud storage platform with responsive UI made with Nextjs 13.4 used Firebase firestore as a database",
         "demo": "https://www.example.com",
         "source": "https://github.com/gauravsahay007/Portfolio"
-      }
+      
     }
   ]
