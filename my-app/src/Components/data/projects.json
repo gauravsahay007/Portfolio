@@ -29,5 +29,12 @@
       "description": "This is a project made with complete React js, used MongoDb as the database and pure css for styling components, also used REST APIs",
       "demo": "https://merchfire.onrender.com/",
       "source": "https://github.com/gauravsahay007/SellMerchSite"
+    },{
+      "key": 5,
+      "title": "Semantic AI Chat System ",
+      "imageSrc": "projects/semantic.png",
+      "description": "An AI-enabled platform simulating semantic communication.",
+      "demo": "https://semantic-communication-1.onrender.com/",
+      "source": "https://github.com/gauravsahay007/Semantic_Communication"
     }
   ]
